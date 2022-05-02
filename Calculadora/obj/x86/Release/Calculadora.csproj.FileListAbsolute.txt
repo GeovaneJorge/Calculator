@@ -1,0 +1,8 @@
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Release\Calculadora.exe.manifest
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Release\Calculadora.application
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Release\Calculadora.exe
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Release\Calculadora.pdb
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Release\Calculadora.exe.manifest
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Release\Calculadora.application
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Release\Calculadora.exe
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Release\Calculadora.pdb

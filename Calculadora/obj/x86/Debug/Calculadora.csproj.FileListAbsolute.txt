@@ -1,0 +1,10 @@
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.application
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe.manifest
+C:\Users\geovane.3CRJ001217N\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.application
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\geovane.3CRJ001217N\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
